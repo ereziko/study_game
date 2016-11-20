@@ -1,0 +1,12 @@
+
+*.pyc 
+
+settings.py 
+
+*.json 
+
+*~ 
+
+DEADJOE 
+
+media/temp 
