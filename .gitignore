@@ -1,7 +1,6 @@
 
 *.pyc 
 
-settings.py 
 
 *.json 
 
@@ -10,3 +9,4 @@ settings.py
 DEADJOE 
 
 media/temp 
+study_game/settings.py.bak
